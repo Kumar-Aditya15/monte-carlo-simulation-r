@@ -49,7 +49,4 @@ The simulation produces:
 - Plotly
 - Monte Carlo Simulation
 - Corporate Finance (DCF)
-
-## Dashboard
-
-![Dashboard](images/dashboard.png)
+- 
